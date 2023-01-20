@@ -1,3 +1,3 @@
 # NLPAssignment
 
-Creating a naive bayesan model for archival data scraaped from job sites
+Creating a naive bayesian model for archival data scraped from job sites
